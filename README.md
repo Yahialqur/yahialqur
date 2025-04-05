@@ -4,13 +4,13 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 
 ---
 
-## 💼 Current Personal Projects:
+## 💼 Some Personal Projects:
 
-- **ASL Translate**  
-  A real-time American Sign Language to text translator using computer vision and deep learning. Built with React, Flask, TensorFlow, and MediaPipe.
-
-- **Best Look**  
+- **[Best Look](https://github.com/Yahialqur/bestLook)**  
   A face shape classification app that uses deep learning (VGG16) to detect your face shape and recommend the most flattering hairstyles. Built with PyTorch and Flask.
+
+- **[ASL Translate](https://github.com/Yahialqur/ASL_Translate)**  
+  A real-time American Sign Language to text translator using computer vision and deep learning. Built with React, Flask, TensorFlow, and MediaPipe.
 
 ---
 
@@ -32,12 +32,23 @@ Tools: Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ---
 
+## GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahialqur&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahialqur&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+---
+
+## 🧩 What I'm Currently Working On:
+
+- Startup Project
+- Personal Research
+- Enhancing Face Classification Model of the Best Look Project
+- Adding new features to Best Look Project
 
 ---
 
