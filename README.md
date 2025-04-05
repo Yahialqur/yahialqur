@@ -32,14 +32,18 @@ Tools: Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ---
 
-![Yahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahialqur&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahialqur&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahialqur&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yahialqur&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahialqur&layout=compact&theme=tokyonight)
+## 🌐 Let's Connect!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yahialqur&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Yahialqur&style=flat-square)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yahia-alqurnawi/)
+- 📨 Email: ymq2003@gmail.com
 
 
