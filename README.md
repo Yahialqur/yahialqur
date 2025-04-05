@@ -34,3 +34,12 @@ Tools: Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ![Yahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahialqur&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yahialqur&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahialqur&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yahialqur&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Yahialqur&style=flat-square)
+
+
