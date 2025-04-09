@@ -7,7 +7,7 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 ## 💼 Some Personal Projects:
 
 - **[Best Look](https://github.com/Yahialqur/bestLook)**  
-  A face shape classification app that uses deep learning (VGG16) to detect your face shape and recommend the most flattering hairstyles. Built with PyTorch and Flask.
+  A face shape classification web app that uses deep learning (VGG16) to detect your face shape and recommend hairstyles that match your face. Built with PyTorch, React, and Flask.
 
 - **[ASL Translate](https://github.com/Yahialqur/ASL_Translate)**  
   A real-time American Sign Language to text translator using computer vision and deep learning. Built with React, Flask, TensorFlow, and MediaPipe.
