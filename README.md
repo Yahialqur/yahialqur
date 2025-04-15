@@ -16,9 +16,9 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 
 ## 🛠️ Tech Stack:
 
-Languages: Python, JavaScript, C++, Java
-Web: React, Django, Node.js, Flask
-Tools: Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
+**Languages:** Python, JavaScript, C++, Java  
+**Web:** React, Django, Node.js, Flask  
+**Tools:** Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ---
 
