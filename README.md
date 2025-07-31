@@ -24,11 +24,10 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 
 ## 🔬 Current Research Interests:
 
-- 🧠 Quantum Machine Learning (QML), especially using quantum annealing
-- 🧬 Neural networks & deep learning for real-world applications
-- 🧭 Reinforcement learning with real-time environments
+- 🧩 Symbolic Knowledge Integration in ML & Generative AI
 - 🗣️ Voice recognition models and speech-based AI systems
-- 👁️ Computer vision models for gesture, face, and object recognition
+- 🧭 Reinforcement learning
+- 🧠 Quantum Machine Learning (QML)
 
 ---
 
@@ -45,10 +44,8 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 
 ## 🧩 What I'm Currently Working On:
 
-- Startup Project
-- Personal Research
-- Enhancing Face Classification Model of the Best Look Project
-- Adding new features to Best Look Project
+- Internship
+- Research
 
 ---
 
