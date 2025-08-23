@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Yahia Alqurnawi!
 
-I'm a senior Computer Science student at ASU passionate about building impactful software with AI, full-stack development, and beautiful UI/UX.
+I'm a Masters Computer Science student passionate about building impactful software with AI/ML.
 
 ---
 
@@ -17,17 +17,16 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 ## 🛠️ Tech Stack:
 
 **Languages:** Python, JavaScript, C++, Java  
-**Web:** React, Django, Node.js, Flask  
+**Web:** Django, React, Node.js, Flask  
 **Tools:** Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ---
 
 ## 🔬 Current Research Interests:
 
-- 🧩 Symbolic Knowledge Integration in ML & Generative AI
-- 🗣️ Voice recognition models and speech-based AI systems
-- 🧭 Reinforcement learning
-- 🧠 Quantum Machine Learning (QML)
+-  NLP
+-  Knowledge Representation
+-  Gen AI
 
 ---
 
@@ -39,13 +38,6 @@ I'm a senior Computer Science student at ASU passionate about building impactful
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahialqur&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
----
-
-## 🧩 What I'm Currently Working On:
-
-- Internship
-- Research
 
 ---
 
