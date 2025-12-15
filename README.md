@@ -6,18 +6,18 @@ I'm a Masters Computer Science student passionate about building impactful softw
 
 ## 💼 Some Personal Projects:
 
-- **[Best Look](https://github.com/Yahialqur/bestLook)**  
-  A face shape classification web app that uses deep learning (VGG16) to detect your face shape and recommend hairstyles that match your face. Built with PyTorch, React, and Flask.
-
 - **[ASL Translate](https://github.com/Yahialqur/ASL_Translate)**  
   A real-time American Sign Language to text translator using computer vision and deep learning. Built with React, Flask, TensorFlow, and MediaPipe.
+  
+- **[Best Look](https://github.com/Yahialqur/bestLook)**  
+  A face shape classification web app that uses deep learning (VGG16) to detect your face shape and recommend hairstyles that match your face. Built with PyTorch, React, and Flask.
 
 ---
 
 ## 🛠️ Tech Stack:
 
 **Languages:** Python, JavaScript, C++, Java  
-**Web:** Django, React, Node.js, Flask  
+**Web:** FastAPI, Django, React, Node.js  
 **Tools:** Git, Docker, PostgreSQL, AWS, PyTorch, TensorFlow
 
 ---
@@ -44,6 +44,6 @@ I'm a Masters Computer Science student passionate about building impactful softw
 ## 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yahia-alqurnawi/)
-- 📨 Email: ymq2003@gmail.com
+- 📨 Email: y.alqurnawi@gmail.com
 
 
